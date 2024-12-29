@@ -1,4 +1,4 @@
- Weather Dashboard Description
+ Weather Dashboard (WEATHERLY) Description
 
 
 
