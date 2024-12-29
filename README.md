@@ -1,5 +1,8 @@
- Weather Dashboard
-Description
+ Weather Dashboard Description
+
+
+
+
 The Weather Dashboard is a web application that provides real-time weather updates and 5-day forecasts for any city around the world. Users can search for a city to view the current temperature, humidity, wind speed, and weather conditions, making it a perfect tool for planning your day!
 
 Features
