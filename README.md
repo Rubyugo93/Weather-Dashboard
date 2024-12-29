@@ -27,7 +27,7 @@ How to Run Locally
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/your-username/weather-dashboard.git
+git clone https://github.com/Rubyugo93/Weather-Dashboard
 Navigate to the Project Directory:
 bash
 Copy code
@@ -76,4 +76,4 @@ Portfolio | GitHub
 
 License
 This project is licensed under the MIT License.
-
+MY VERCEL LINK: https://weather-dashboard-eight-navy.vercel.app/
